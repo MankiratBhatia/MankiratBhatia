@@ -119,7 +119,7 @@ I enjoy building practical AI/ML applications and strengthening my problem-solvi
 
 ---
 
-## Featured Project
+## Featured Projecta
 
 ### 📄 Ask My Docs
 
